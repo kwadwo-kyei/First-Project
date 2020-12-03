@@ -1,4 +1,4 @@
-# First-Project
+# Text Adventure Game Project
 For this assignment, I was tasked with designing a text based adventure game. This game had to utilize the Python essentials covered thus far, including, but not limited to: 
 - Strings and String Manipulation
 - User-Defined Functions and Objects (variables)
